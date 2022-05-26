@@ -1,4 +1,9 @@
 #!/bin/env python3
+
+'''
+Quick script to extract Atomic Red Team test metadata and write out to a tab delimited file for importing to a spreadsheet program.
+'''
+
 import os
 import re
 import sys
